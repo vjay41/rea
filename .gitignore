@@ -52,6 +52,9 @@ Thumbs.db
 /_reference/
 /experiments/analysis-efficiency/
 
+# Stray repository copies (for example a GitHub zip extraction) must not enter the tree or tooling scans.
+/rea-main/
+
 # Generated website download
 /website/public/examples/notes-example.zip
 /website/public/deployment.json

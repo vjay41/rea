@@ -191,7 +191,8 @@
     ".codex",
     ".devin",
     ".factory",
-    "third_party"
+    "third_party",
+    "rea-main"
   ],
   "options": {
     "reportUnusedDisableDirectives": "error"
